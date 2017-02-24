@@ -5,4 +5,7 @@ paddle moves according to the motion of ball that is coming toward it.
 
 Winning score is 3.
 
+To play the game visit URL:
+https://pankaj142.github.io/Tennis-Game-using-JavaScript/tennis.html
+
 Thank You!
